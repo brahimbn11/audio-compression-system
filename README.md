@@ -65,7 +65,7 @@ Le système utilise une architecture modulaire basée sur une API REST (FastAPI)
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/VOTRE_USERNAME/audio-compression.git
+git clone https://github.com/brahimbn11/audio-compression-system.git
 cd audio-compression
 
 # 2. Créer un environnement virtuel

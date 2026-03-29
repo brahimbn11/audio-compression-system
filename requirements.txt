@@ -5,6 +5,7 @@
 fastapi
 uvicorn
 pydantic
+python-multipart
 
 # ── Audio Analysis ────────────────────────────────────────────────────────────
 librosa
