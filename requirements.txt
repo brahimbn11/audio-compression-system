@@ -1,0 +1,20 @@
+# Système Intelligent de Compression Audio
+# Dépendances Python
+
+# ── API Backend ───────────────────────────────────────────────────────────────
+fastapi
+uvicorn
+pydantic
+
+# ── Audio Analysis ────────────────────────────────────────────────────────────
+librosa
+soundfile
+numpy
+
+# ── Interface Streamlit ───────────────────────────────────────────────────────
+streamlit
+plotly
+requests
+
+# ── Env variables ─────────────────────────────────────────────────────────────
+python-dotenv
