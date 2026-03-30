@@ -49,7 +49,7 @@ Le système utilise une architecture modulaire basée sur une API REST (FastAPI)
 
 | Membre | Rôle |
 |--------|------|
-| **Brahim Benazzouz** (chef) | Architecture & Intégration LLM |
+| **Brahim Benazzouz** | Architecture & Intégration LLM |
 | **Omar El Haddad** | Extraction & Analyse audio |
 | **Boukhar Hamza** | Compression audio |
 | **Afkir Rida** | Évaluation & Rapport |
