@@ -35,7 +35,6 @@ Le système utilise une architecture modulaire basée sur une API REST (FastAPI)
 ```
 ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
 │  Extraction  │───▶│  Décision   │───▶│ Compression │───▶│ Évaluation  │───▶│   Rapport   │
-│   (Omar)     │    │  (Brahim)   │    │   (Hamza)   │    │   (Rida)    │    │             │
 └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
 ```
 
